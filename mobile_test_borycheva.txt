@@ -63,5 +63,49 @@
 1.26 N/A
 
 2. Сетевые характеристики 
+2.1 pass
+2.2 pass
+2.3 pass
+2.4 pass
+2.5 pass
+2.6 N/A
+2.7 N/A
+2.8 pass
+2.9 N/A
+
+3. Характеристики приложения
+3.1 pass
+3.2 pass
+3.3 pass
+3.4 N/A
+3.5 N/A
+3.6 pass
+3.7 N/A
+3.8 pass
+3.9 pass
+3.10 N/A
+3.11 pass
+3.12 N/A
+3.13 fail *часто случается перезагрузка сервера
+3.14 N/A
+
+4. Проверки интерфейса
+4.1 pass
+4.1 pass
+4.2 pass
+4.3 pass
+4.4 pass
+4.5 pass
+4.6 pass
+4.7 N/A
+4.8 pass
+4.9 pass
+4.10 pass
+4.11 pass
+4.12 pass
+4.13 fail
+4.14 pass
+4.15 pass
+4.16 pass
 
 
